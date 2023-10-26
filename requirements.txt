@@ -1,0 +1,5 @@
+numpy~=1.24.3
+pandas~=2.1.1
+setuptools~=66.0.0
+matplotlib~=3.7.1
+salib~=1.4.7
